@@ -1,5 +1,5 @@
 import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+import TabItem from '@theme/TabItem';  
 
 A **plugin package** is a uniform format in which your plugin is archived. You can distribute your plugin on **Allxon Plugin Station** by plugin package.
 
